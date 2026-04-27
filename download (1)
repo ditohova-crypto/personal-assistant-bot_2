@@ -1,0 +1,18 @@
+APP_ID=19dd0b27-6f42-88d8-8000-0000469be683
+APP_SECRET=td91MWgWsJlsftBd7pnhuWr4k6VlI6rv
+
+VITE_APP_ID=19dd0b27-6f42-88d8-8000-0000469be683
+VITE_KIMI_AUTH_URL=https://auth.kimi.com
+
+DATABASE_URL=mysql://4GVzsqNyXkww48H.root:ucR9OQvq4yHF91meC9paHthdiCSsxDGK@ep-t4ni387b5e83b7519dc8.epsrv-t4n281l4mrmemi4zls9a.ap-southeast-1.privatelink.aliyuncs.com:4000/19dd0b20-9352-871f-8000-09df8a7521ff
+KIMI_AUTH_URL=https://auth.kimi.com
+KIMI_OPEN_URL=https://open.kimi.com
+OWNER_UNION_ID=d6k47bam52tckve6624g
+
+# Telegram Bot Configuration
+TELEGRAM_BOT_TOKEN=8793906279:AAF6i3PeOxBmGC2fbw3Xu9WuDnbr8wpHNe8
+OWNER_TELEGRAM_ID=550553189
+
+# Kimi API Configuration
+KIMI_API_KEY=sk-viUUKlwRVJb9Esmz73cK7DlhikPqXlRtbwl3fCOZC3goODGx
+KIMI_BASE_URL=https://api.moonshot.cn/v1
